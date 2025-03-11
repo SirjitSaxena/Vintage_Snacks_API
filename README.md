@@ -1,27 +1,25 @@
-Vintage Snacks
+# Vintage Snacks
 
 A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to provide an immersive online shopping experience for handmade traditional snacks. The project implements features such as user profiles, shopping cart functionality, advanced search capabilities, and filtering options to enhance usability and efficiency.
 
-Features
+## Features
 
-User Profiles: Create and manage personalized user accounts.
-Shopping Cart: Add items to the cart, manage quantities, and proceed to checkout.
-Advanced Search: Search for snacks using keywords and phrases.
-Filtering Options: Filter products by categories, price, ratings, and more.
+- **User Profiles**: Create and manage personalized user accounts.
+- **Shopping Cart**: Add items to the cart, manage quantities, and proceed to checkout.
+- **Advanced Search**: Search for snacks using keywords and phrases.
+- **Filtering Options**: Filter products by categories, price, ratings, and more.
 
+## Tools & Technologies Used
 
+- **Frontend**: React.js, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Testing API**: Postman
 
-Tools & Technologies Used
-
-Frontend: React.js, Bootstrap
-Backend: Node.js, Express.js
-Database: MongoDB
-Testing API: Postman
-
-
+## Watch Video
 Watch Video [https://www.youtube.com/watch?v=3fBFg4egm2k](https://www.youtube.com/watch?v=Cnfzt3XthYs)
 
-Screenshots
+## Screenshots
 ![Screenshot 2025-03-11 144759](https://github.com/user-attachments/assets/ecab5db3-8d10-4fe2-83f5-f923b58f948e)
 ![Screenshot 2025-03-11 144811](https://github.com/user-attachments/assets/ad921901-ca6c-41e6-bff4-216f51422363)
 ![Screenshot 2025-03-11 144829](https://github.com/user-attachments/assets/f050afac-a2a6-463e-9fd0-4f657ef66ce9)
