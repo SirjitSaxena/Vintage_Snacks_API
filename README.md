@@ -16,8 +16,7 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed 
 - **Database**: MongoDB
 - **Testing API**: Postman
 
-## Watch Video
-Watch Video [https://www.youtube.com/watch?v=3fBFg4egm2k](https://www.youtube.com/watch?v=Cnfzt3XthYs)
+## [Watch Video](https://www.youtube.com/watch?v=Cnfzt3XthYs)
 
 ## Screenshots
 ![Screenshot 2025-03-11 144759](https://github.com/user-attachments/assets/ecab5db3-8d10-4fe2-83f5-f923b58f948e)
