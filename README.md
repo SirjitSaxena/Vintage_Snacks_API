@@ -1,22 +1,25 @@
-# Vintage Snacks
+# 🍘 Vintage Snacks – Full-Stack E-commerce System
 
-A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to provide an immersive online shopping experience for handmade traditional snacks. The project implements features such as user profiles, shopping cart functionality, advanced search capabilities, and filtering options to enhance usability and efficiency.
+A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed to provide an immersive online shopping experience for handmade traditional snacks. The project features user-friendly interfaces, a secure backend, and a scalable architecture suitable for real-world e-commerce use.
 
-## Features
+## 🚀 Features
 
-- **User Profiles**: Create and manage personalized user accounts.
-- **Shopping Cart**: Add items to the cart, manage quantities, and proceed to checkout.
-- **Advanced Search**: Search for snacks using keywords and phrases.
-- **Filtering Options**: Filter products by categories, price, ratings, and more.
+- **User Profiles**: Register and manage personalized user accounts securely.
+- **Shopping Cart**: Add/remove items, manage quantities, and proceed to checkout.
+- **Order Management**: Place orders and track them through the system.
+- **Advanced Search**: Quickly search for snacks using keywords and filters.
+- **Filtering Options**: Filter products based on category, price range, ratings, and more.
+- **Authentication & Authorization**: JWT-based login system with protected routes.
 
-## Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - **Frontend**: React.js, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Testing API**: Postman
+- **Authentication**: JWT (JSON Web Tokens)
+- **API Testing**: Postman
 
-## [Watch Video](https://www.youtube.com/watch?v=Cnfzt3XthYs)
+## 📽️ [Watch Video](https://www.youtube.com/watch?v=Cnfzt3XthYs)
 
 ## Screenshots
 ![Screenshot 2025-03-11 144759](https://github.com/user-attachments/assets/ecab5db3-8d10-4fe2-83f5-f923b58f948e)
